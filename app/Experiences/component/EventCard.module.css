@@ -36,7 +36,7 @@
   z-index: 1;
   left: 50%;
   transform: translateX(-50%);
-  border-left: 1px solid rgb(195, 82, 82);
+  border-left: 1px solid rgb(0, 58, 125);
   height: 200px; /* Adjust the height as needed */
 }
 
