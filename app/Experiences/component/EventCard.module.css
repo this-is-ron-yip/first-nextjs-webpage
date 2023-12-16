@@ -2,7 +2,7 @@
   border-collapse: collapse;
 }
 
-.dateCell {
+.date {
   width: 150px;
   height: 50px;
   border: 1px solid black;
@@ -40,7 +40,7 @@
   height: 200px; /* Adjust the height as needed */
 }
 
-.titleCell {
+.title {
   width: 300px;
   height: 50px;
   border: 1px solid black;
